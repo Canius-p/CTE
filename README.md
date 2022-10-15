@@ -7,6 +7,12 @@ This is an editor coded in C. This is a simple cmd text editor made by following
 
 ## Available Features 
 
+1. Open File (both as an argument and from within the editor)
+2. Save and Save as
+3. Incremental Search
+4. Syntax Highlighting (Currently supports most keywords of C and CPP)
+5. And many more. Go fork it and explore.
+
 
 ## Contributing
 
